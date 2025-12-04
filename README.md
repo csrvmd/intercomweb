@@ -72,3 +72,10 @@ Recarga la página y verifica que tu selección permanece.
 No registrado
 
 Intenta acceder desde IP no registrada y verifica que sale el cartel de denegado.
+
+sudo mkdir -p /var/www/html/intercom/presence
+
+sudo chown www-data:www-data /var/www/html/intercom/presence
+
+sudo chmod 755 /var/www/html/intercom/presence
+
