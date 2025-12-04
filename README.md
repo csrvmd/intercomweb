@@ -1,9 +1,9 @@
 # intercomweb
 Servidor Intercom Web local con audio OPUS
 /var/www/html/intercom/
-│
-├─ config.txt               # Configuración principal
-│
+-
+-─ config.txt               # Configuración principal
+-
 ├─ logo.svg                 # Icono de empresa (200px ancho)
 ├─ icono.png                # Favicon (64x64)
 ├─ altavoz.png              # Icono altavoz
