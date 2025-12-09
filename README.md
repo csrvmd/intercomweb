@@ -15,6 +15,10 @@ conf.png                 # Icono configuración
 
 backups/                 # Copias de seguridad de config.txt
 
+presence/                # Estado de presencia de los usuarios por IP
+
+presence.php             # Endpoint de presencia
+
 index.php                # Página principal (intercom/sala)
 
 config.php               # Página y lógica de configuración
